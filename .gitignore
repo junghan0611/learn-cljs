@@ -7,3 +7,6 @@ node_modules
 .lsp
 .clj-kondo
 .cpcache
+*.lock
+.pdf-view-restore
+

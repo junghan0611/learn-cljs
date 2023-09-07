@@ -20,11 +20,18 @@ type: docs
 
 ## Getting started with functional programming for the web
 
-ClojureScript is a pragmatic functional programming language for building web applications. Whether
-you are an experienced JavaScript developer or a brand-new programmer, this book is your guide to
-creating impressive web apps in the simple and elegant ClojureScript language. The tutorial-style lessons
-are easy to follow at your own pace, and the practical capstone projects will reinforce what you have
-learned.
+ClojureScript is a pragmatic functional programming language for building web
+applications. Whether you are an experienced JavaScript developer or a brand-new
+programmer, this book is your guide to creating impressive web apps in the
+simple and elegant ClojureScript language. The tutorial-style lessons are easy
+to follow at your own pace, and the practical capstone projects will reinforce
+what you have learned.
+
+클로저스크립트는 웹 애플리케이션을 구축하기 위한 실용적인 함수형 프로그래밍
+언어입니다. 이 책은 숙련된 자바스크립트 개발자이든 초보 프로그래머이든 상관없이
+간단하고 우아한 클로저스크립트 언어로 인상적인 웹 앱을 제작할 수 있도록
+안내합니다. 튜토리얼 스타일의 수업은 자신의 속도에 맞춰 쉽게 따라할 수 있으며,
+실용적인 캡스톤 프로젝트를 통해 배운 내용을 강화할 수 있습니다.
 
 By the end of the book, you will have created:
 
