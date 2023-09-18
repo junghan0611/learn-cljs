@@ -1,0 +1,9 @@
+* learn-cljs/section-1
+문서와 코드가 같이 있다. 좋다.
+
+좋아. 문서 작업 중이다.
+
+
+밑줄 : underscores
+하이픈 : hyphens
+
